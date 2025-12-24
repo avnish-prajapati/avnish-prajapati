@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=avnish-prajapati&theme=radical" alt="Achievements" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=avnish-prajapati&theme=radical&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -19,19 +17,27 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats & Skills
 
 <p align="center">
   <!-- Contribution Streak Card -->
   <a href="https://github.com/avnish-prajapati">
-    <img src="https://streak-stats.demolab.com/?user=avnish-prajapati&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=avnish-prajapati&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
   </a>
 </p>
 
 <p align="center">
-  <!-- Modern alternative stats card (gitMyStat!) -->
-  <img src="https://gitmystat.vercel.app/api?username=avnish-prajapati&t=stats" alt="GitHub Stats" />
+  <!-- Main Stats Card -->
+  <a href="https://github.com/avnish-prajapati">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=avnish-prajapati&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Top Languages Card -->
+  <a href="https://github.com/avnish-prajapati">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=avnish-prajapati&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
@@ -44,9 +50,7 @@
   <img src="https://img.shields.io/badge/Flutter-Learner-blue?logo=flutter&logoColor=white" alt="Flutter" />
 </p>
 
-
 ---
-
 
 ## 📈 GitHub Journey / Activity Graph
 <p align="center">
