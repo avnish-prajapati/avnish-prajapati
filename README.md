@@ -13,16 +13,7 @@
 
 ---
 
-## 📈 GitHub Journey / Activity Graph
-<p align="center">
-  <!-- Contribution / activity graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avnish-prajapati&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-*This graph shows your contributions over time.* :contentReference[oaicite:1]{index=1}
-
----
-
-## 🔥 My Quote (Styled Card)
+## 🔥 My Quote (Styled Badge)
 <p align="center">
   <img src="https://img.shields.io/badge/Quote-Real%20developers%20dream%20in%20code%20and%20turn%20bugs%20into%20features💻-brightgreen" alt="Dev Quote" />
 </p>
@@ -32,8 +23,15 @@
 ## 📊 GitHub Stats & Skills
 
 <p align="center">
-  <!-- Customized Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=avnish-prajapati&show_icons=true&theme=highcontrast&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=0e75b6" alt="GitHub Stats" />
+  <!-- Contribution Streak Card -->
+  <a href="https://github.com/avnish-prajapati">
+    <img src="https://streak-stats.demolab.com/?user=avnish-prajapati&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Modern alternative stats card (gitMyStat!) -->
+  <img src="https://gitmystat.vercel.app/api?username=avnish-prajapati&t=stats" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -46,15 +44,26 @@
   <img src="https://img.shields.io/badge/Flutter-Learner-blue?logo=flutter&logoColor=white" alt="Flutter" />
 </p>
 
+
 ---
 
+
+## 📈 GitHub Journey / Activity Graph
+<p align="center">
+  <!-- GitHub activity graph (with theme & hide border) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avnish-prajapati&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+
 ## 🔭 Current Work
-- Working on an awesome **[Quiz Application](https://github.com/avnish-prajapati/JAVASCRIPT/tree/main/Doms)**
+- Developing a cool **[Quiz Application](https://github.com/avnish-prajapati/JAVASCRIPT/tree/main/Doms)**
 
 ---
 
 ## 🌱 Learning
-- Improving my mastery of **JavaScript** and full stack technologies
+- Improving my mastery of **JavaScript** and other full stack technologies
 
 ---
 
@@ -64,7 +73,6 @@
 ---
 
 ## 🛠 Tools and Stack
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,c,flutter" />
 </p>
