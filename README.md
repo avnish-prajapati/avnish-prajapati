@@ -13,7 +13,7 @@
 
 ## 🔥 My Quote (Styled Badge)
 <p align="center">
-  <img src="https://img.shields.io/badge/Quote-Real%20developers%20dream%20in%20code%20and%20turn%20bugs%20into%20features💻-brightgreen" alt="Dev Quote" />
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </p>
 
 ---
