@@ -13,9 +13,8 @@
 
 ## 🔥 My Quote (Styled Badge)
 <p align="center">
-https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
-
 ---
 ## 📊 GitHub Stats & Skills
 
