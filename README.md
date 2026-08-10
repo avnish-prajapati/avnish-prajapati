@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=avnish-prajapati&label=Profile%20views&color=0e75b6&style=flat" />
+
 </p>
 
 
@@ -18,7 +19,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
----
+--
 
 ## 📊 GitHub Stats & Skills
 
