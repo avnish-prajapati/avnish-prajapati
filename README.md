@@ -39,11 +39,15 @@ I love working with both frontend and backend technologies and continuously impr
 🛠️ Tech Stack
 💻 Frontend
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" /> </p>
+
 ⚙️ Backend & Database
 <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" /> </p>
+
 🔧 Tools & Technologies
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm" /> </p>
+
 🚀 Featured Projects
+
 📊 Next.js Data Table
 
 Excel-style data management application built with Next.js.
