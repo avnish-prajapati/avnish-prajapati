@@ -4,7 +4,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=avnish-prajapati&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/avnish-prajapati?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img
+ src="https://img.shields.io/github/followers/avnish-prajapati?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
 
 </p>
 
