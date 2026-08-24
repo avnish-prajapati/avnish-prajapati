@@ -112,7 +112,7 @@ An interactive quiz application built using React.js and JavaScript.
 </p>
 
 <ul>
-  <li>❓ Multiple Choice Questions</li>
+  <li>❓ Multiple  Choice Questions</li>
   <li>🏆 Score Calculation</li>
   <li>➡️ Question Navigation</li>
   <li>📊 Result Display</li>
