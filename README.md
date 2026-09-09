@@ -83,6 +83,7 @@ A simple text utility application for performing different text operations.
 </p>
 
 <ul>
+
   <li>Uppercase & Lowercase Conversion</li>
   <li>Word Count</li>
   <li>Character Count</li>
