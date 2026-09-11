@@ -124,16 +124,13 @@ responsive and user-friendly web applications.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=avnish-prajapati&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
-<h2>🐍 Contribution Snake (Animated)</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/avnish-prajapati/avnish-prajapati/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+## 🐍 Contribution Snake (Animated)
 
-<blockquote>
-ℹ️ The snake animation above needs a one-time setup: add the <b>Platane/snk</b> GitHub Action to your profile repo (I've written the workflow file below) so it auto-generates and commits <code>github-contribution-grid-snake.svg</code> daily from your real contribution graph.
-</blockquote>
+![Snake animation](https://raw.githubusercontent.com/avnish-prajapati/avnish-prajapati/output/github-contribution-grid-snake.svg)
 
-<h2>🏆 GitHub Trophies</h2>
+> 🐍 This animation represents my GitHub contribution activity and is automatically updated using the Platane/snk GitHub Action.
+
+## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=avnish-prajapati&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
 </p>
