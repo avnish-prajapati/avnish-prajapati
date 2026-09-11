@@ -1,10 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Avnish%20Kumar%20Prajapati&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%F0%9F%9A%80&descAlignY=58&descSize=18" alt="header banner" width="100%"/>
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Avnish+Kumar+Prajapati;Full+Stack+Web+Developer+%F0%9F%9A%80;React.js+%7C+Next.js+%7C+Node.js+Enthusiast;Welcome+to+my+GitHub+Profile+%E2%9C%A8" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%">
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=avnish-prajapati&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
@@ -229,8 +229,9 @@ responsive and user-friendly web applications.
 
 <h2 align="center">🚀 Let's Build Something Awesome Together!</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%">
-</p>
-<p align="center">
   ⭐ Thanks for visiting my profile!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=footer&animation=fadeIn" alt="footer banner" width="100%"/>
 </p>
