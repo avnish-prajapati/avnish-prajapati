@@ -1,4 +1,5 @@
 <p align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Avnish%20Kumar%20Prajapati&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%F0%9F%9A%80&descAlignY=58&descSize=18" alt="header banner" width="100%"/>
 </p>
 
