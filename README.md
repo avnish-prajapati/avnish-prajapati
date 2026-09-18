@@ -54,7 +54,7 @@ responsive and user-friendly web applications.
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" alt="Backend Skills" />
 </p>
 
-<h3>Tools & Platforms</h3>
+<h3>Tools & Platforms </h3>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm,postman,vercel" alt="Tools" />
 </p>
