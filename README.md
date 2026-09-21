@@ -152,6 +152,7 @@ responsive and user-friendly web applications.
 <hr>
 
 <h2>📚 Currently Learning</h2>
+
 <ul>
   <li>⚡ Advanced JavaScript</li>
   <li>⚛️ Advanced React.js</li>
@@ -160,6 +161,7 @@ responsive and user-friendly web applications.
   <li>🍃 MongoDB</li>
   <li>🔐 Authentication & Authorization</li>
   <li>🚀 Full Stack Development</li>
+
 </ul>
 
 <h2>🎯 2026 Goals</h2>
