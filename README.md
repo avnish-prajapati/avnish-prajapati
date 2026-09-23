@@ -19,9 +19,7 @@
 <hr>
 
 <h2>👨‍💻 About Me</h2>
-
 <img align="right" width="380" src="https://raw.githubusercontent.com/aaronbywater/aaronbywater/master/gif/binary.gif" />
-
 <p>
 I'm a passionate <b>Full Stack Web Developer</b> from India 🇮🇳 who enjoys creating modern,
 responsive and user-friendly web applications.
