@@ -17,6 +17,14 @@
 
 <hr>
 
+<!-- ===================== CONTRIBUTIONS HEATMAP ===================== -->
+<p align="center"><code>avnish@github:~$ ./contributions.sh</code></p>
+<p align="center">
+  <img src="contributions.svg" width="100%" alt="Avnish's public contribution activity" />
+</p>
+
+<hr>
+
 <!-- ===================== ABOUT ===================== -->
 <h2>👨‍💻 About Me</h2>
 <img align="right" width="320" src="https://raw.githubusercontent.com/aaronbywater/aaronbywater/master/gif/binary.gif" />
@@ -30,6 +38,7 @@ responsive and user-friendly web applications, with strong APIs behind them.
   <li>⚙️ Backend with <b>Node.js</b> and <b>Express.js</b></li>
   <li>🗄️ Databases with <b>MongoDB</b> and <b>Mongoose</b></li>
   <li>🔐 Auth systems: JWT, refresh sessions, OTP login, role-based access</li>
+  <li>🤖 <b>AI prompting</b> and LLM-assisted development</li>
   <li>🐍 Growing in <b>Python</b> and <b>TypeScript</b></li>
   <li>🚀 I enjoy building real-world projects end to end</li>
   <li>⚡ Fun fact: I debug with <code>console.log</code> and pray 🙏</li>
