@@ -18,7 +18,9 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate contributions.svg
+      - name: Generate contributions and stats cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python make_contrib.py avnish-prajapati
 
       - name: Commit if changed
@@ -26,4 +28,5 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add contributions.svg
-          git diff --staged --quiet || (git commit -m "Update contributions card" && git push)
+          if [ -f stats.svg ]; then git add stats.svg; fi
+          git diff --staged --quiet || (git commit -m "Update contributions and stats cards" && git push)
